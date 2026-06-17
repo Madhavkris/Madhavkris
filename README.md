@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Madhav Krishna 👋
 
-<!--
-**Madhavkris/Madhavkris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Developer | Flask Learner | Open to Internships
 
-Here are some ideas to get you started:
+🎓 B.Tech (ECE) Student at Sri Venkateswara College of Engineering, Tirupati
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Python Development, Backend Development, and Problem Solving
+
+🌱 Currently Learning:
+
+* Flask
+* Backend Development
+* Data Structures & Algorithms (DSA)
+* MySQL
+
+## Technical Skills
+
+### Programming
+
+* Python
+* Object-Oriented Programming (OOP)
+* Exception Handling
+* File Handling
+
+### Backend Development
+
+* REST APIs
+* JSON
+* CRUD Operations
+
+### Databases
+
+* SQL
+* SQLite
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Linux
+* VS Code
+
+### Web Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+## Projects
+
+### Student Management System
+
+Python-based application using SQLite to manage student records with CRUD operations.
+
+### ATM Banking System
+
+Console-based ATM application with PIN authentication, deposits, withdrawals, and balance enquiry features.
+
+### Login Registration System
+
+User authentication application supporting registration, login validation, and secure credential management.
+
+## Certifications
+
+### NPTEL – The Joy of Computing Using Python
+
+* IIT Madras
+* Elite – 88%
+
+## Connect With Me
+
+📧 Email: [madhavkrishm@gmail.com](mailto:madhavkrishm@gmail.com)
+
+🔗 LinkedIn:
+https://linkedin.com/in/madhavkrishnam
+
+🔗 GitHub:
+https://github.com/Madhavkris
